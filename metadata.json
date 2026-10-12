@@ -1,0 +1,6 @@
+{
+  "name": "LedgerFlow - AI Financial Document Processing",
+  "description": "Secure financial document processing platform for bank statements, identity documents, payslips, and cash statements with AI extraction, validation, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
